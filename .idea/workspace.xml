@@ -24,11 +24,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="" />
+    <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC Werkboek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AC Werkboek.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +62,35 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Analytical-Computing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587204285445</updated>
       <workItem from="1587204286638" duration="900000" />
+      <workItem from="1587540214025" duration="2241000" />
     </task>
     <servers />
   </component>
@@ -78,8 +119,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1587544180800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1587544180800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1587544180800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1587544180800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
     <state x="334" y="92" width="1536" height="894" key="MergeDialog" timestamp="1587204585994">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -88,9 +146,12 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="834" y="402" width="545" height="274" key="MultipleFileMergeDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587204585995" />
-    <state x="731" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587204471597">
+    <state x="731" y="454" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587540237119">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="731" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587204471597" />
+    <state x="731" y="454" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587540237119" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Analytical_Computing$test.coverage" NAME="test Coverage Results" MODIFIED="1587544257406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
