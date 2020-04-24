@@ -27,6 +27,7 @@
     <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AC Werkboek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AC Werkboek.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,34 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.martrix_product_test">
+    <configuration name="martrix_product_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Analytical-Computing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/martrix_product_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Analytical-Computing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +104,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.martrix_product_test" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -102,7 +131,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587204285445</updated>
       <workItem from="1587204286638" duration="900000" />
-      <workItem from="1587540214025" duration="2241000" />
+      <workItem from="1587540214025" duration="4867000" />
+      <workItem from="1587712041539" duration="9493000" />
     </task>
     <servers />
   </component>
@@ -122,22 +152,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1587544180800">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1874" height="401" key="GridCell.Tab.0.bottom" timestamp="1587721663392">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
-    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1587544180800">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1874" height="353" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587716090083" />
+    <state width="1874" height="401" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587721663392" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1587549261609" />
+    <state width="1874" height="401" key="GridCell.Tab.0.center" timestamp="1587721663392">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
-    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1587544180800">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1874" height="353" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587716090083" />
+    <state width="1874" height="401" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587721663392" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1587549261609" />
+    <state width="1874" height="401" key="GridCell.Tab.0.left" timestamp="1587721663391">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
-    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1587544180800">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1874" height="353" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587716090083" />
+    <state width="1874" height="401" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587721663391" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1587549261609" />
+    <state width="1874" height="401" key="GridCell.Tab.0.right" timestamp="1587721663392">
+      <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587544180800" />
+    <state width="1874" height="353" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587716090083" />
+    <state width="1874" height="401" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587721663392" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1587549261609" />
     <state x="334" y="92" width="1536" height="894" key="MergeDialog" timestamp="1587204585994">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -150,8 +188,48 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="731" y="454" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587540237119" />
+    <state x="51" y="0" width="1874" height="601" maximized="true" key="dock-window-1" timestamp="1587714709813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="51" y="0" width="1874" height="601" maximized="true" key="dock-window-1/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587714709813" />
+    <state x="623" y="1321" width="672" height="678" key="search.everywhere.popup" timestamp="1587712390042">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="623" y="1321" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1587712390042" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/martrix_product_test.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/martrix_product_test.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Analytical_Computing$test.coverage" NAME="test Coverage Results" MODIFIED="1587544257406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Analytical_Computing$martrix_product_test.coverage" NAME="martrix_product_test Coverage Results" MODIFIED="1587721685719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Analytical_Computing$test.coverage" NAME="test Coverage Results" MODIFIED="1587715807971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
