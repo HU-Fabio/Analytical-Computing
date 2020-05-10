@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AC Werkboek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AC Werkboek.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,6 +191,7 @@
       <workItem from="1588272756799" duration="31000" />
       <workItem from="1588751463642" duration="5879000" />
       <workItem from="1588922261042" duration="4112000" />
+      <workItem from="1589118385296" duration="1092000" />
     </task>
     <servers />
   </component>
@@ -257,11 +259,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="834" y="402" width="545" height="274" key="MultipleFileMergeDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587204585995" />
-    <state x="1115" y="1534" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588751706733">
+    <state x="1115" y="1534" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589118585969">
       <screen x="384" y="1080" width="1920" height="1080" />
     </state>
     <state x="731" y="454" width="458" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1587540237119" />
-    <state x="1115" y="1534" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/384.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@384.1080.1920.1080" timestamp="1588751706733" />
+    <state x="1115" y="1534" width="448" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/384.1080.1920.1080/1920.0.1920.1080/0.0.1920.1080@384.1080.1920.1080" timestamp="1589118585969" />
     <state x="1508" y="1312" width="934" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588070019895">
       <screen x="1020" y="1080" width="1920" height="1080" />
     </state>
