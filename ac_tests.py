@@ -561,7 +561,7 @@ def test_symbolic_integration_alfa(Constant, Variable, Sum, Product, Power):
         def test_variable_x(self):
             form = Function('f', Variable('x'))
             integral = Function('f', Sum(Product(Constant(0.5),Power(Variable('x'),2)),Variable('C')), -1)
-            np.testing.assert_equal(form.integrate('x'), integral, integrate_message(form, integral))
+            np.testing.assert_equal(form.integrate ('x'), integral, integrate_message(form, integral))
         def test_variable_y(self):
             form = Function('f', Variable('y'))
             integral = Function('f', Sum(Product(Variable('x'),Variable('y')),Variable('C')), -1)
