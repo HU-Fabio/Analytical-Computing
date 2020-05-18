@@ -24,12 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/AC Werkboek-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AC Werkboek.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AC Werkboek.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ac_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ac_tests.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4737f36-3a1e-4c41-a4a2-2c0016f64eb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +190,7 @@
       <workItem from="1589118385296" duration="1092000" />
       <workItem from="1589354341148" duration="2742000" />
       <workItem from="1589788160236" duration="4238000" />
-      <workItem from="1589794691575" duration="9548000" />
+      <workItem from="1589794691575" duration="9822000" />
     </task>
     <servers />
   </component>
